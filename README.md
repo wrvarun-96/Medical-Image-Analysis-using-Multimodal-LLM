@@ -12,11 +12,11 @@ This project focuses on the development of a sophisticated medical image analysi
 - **Model Training**: Training models using advanced large language models (LLMs) to accurately describe the brain images.
 - **Deployment: Deploying the system to provide real-time analysis and descriptions of uploaded images.
 ## Current Progress
-- **Model Used**: Initially used IDEFICS-7B, but results were not optimal.
+- **Model Used**: Initially used IDEFICS-7B, but results were not optimal.But, LLaVA and LLaVA-Med gave a optimal results.
 - **Challenges Faced**: Encountered issues with training time, downloading models, and preprocessing images effectively.
-- **Future Phases**: Planning to experiment with more advanced models such as IDEFICS-9B-Instruct, LLaVA-7B, and LLaVA-MEd-7B to enhance performance and accuracy.
+- **Future Phases**: Planning on creaitng front-end using gradi.
 ## Future Plans
-- **Model Optimization**: Testing and integrating IDEFICS-9B-Instruct, LLaVA-7B, and LLaVA-MEd-7B models.
+- **Model Optimization**: Testing and integrating LLaVA-7B, and LLaVA-MEd-7B models.
 - **Performance Improvement**: Addressing current challenges to optimize the training process and improve the overall efficiency of the system.
 - **User Interface Enhancements**: Refining the front-end interface for a more user-friendly experience.
 ## Conclusion
