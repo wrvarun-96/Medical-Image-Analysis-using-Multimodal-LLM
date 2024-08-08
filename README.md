@@ -9,12 +9,12 @@ This project focuses on the development of a sophisticated medical image analysi
 ## Workflow
 - **Data Collection**: Gathering a diverse dataset of brain images to train and test the models.
 - **Preprocessing**: Implementing preprocessing steps to prepare the images for analysis.
-- **Model Training**: Training models using advanced large language models (LLMs) to accurately describe the brain images.
+- **Model Training**: Training models using advanced Multimodal large language models (MLLMs) to accurately describe the brain images.
 - **Deployment**: Deploying the system to provide real-time analysis and descriptions of uploaded images.
 ## Current Progress
-- **Model Used**: Initially used IDEFICS-7B, but results were not optimal.But, LLaVA and LLaVA-Med gave a optimal results.
+- **Model Used**: Initially used IDEFICS2, but results were not optimal.But, LLaVA and LLaVA-Med gave a optimal results.
 - **Challenges Faced**: Encountered issues with training time, downloading models, and preprocessing images effectively.
-- **Future Phases**: Planning on creaitng front-end using gradi.
+- **Future Phases**: Planning on creaitng front-end using gradio.
 ## Future Plans
 - **Model Optimization**: Testing and integrating LLaVA-7B, and LLaVA-MEd-7B models.
 - **Performance Improvement**: Addressing current challenges to optimize the training process and improve the overall efficiency of the system.
