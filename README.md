@@ -13,7 +13,7 @@ This project focuses on the development of a sophisticated medical image analysi
 - **Deployment**: Deploying the system to provide real-time analysis and descriptions of uploaded images.
 ## Current Progress
 - **Model Used**: Initially used IDEFICS2, but results were not optimal.But, LLaVA and LLaVA-Med gave a optimal results.
-- **Challenges Faced**: Encountered issues with training time, downloading models, and preprocessing images effectively.
+- **Challenges Faced**: Encountered issues with training time, downloading models, and preprocessing images effectively. I faced resource problem with the available resource, had to use runpod for extra GPUs.
 - **Future Phases**: Planning on creaitng front-end using gradio.
 ## Future Plans
 - **Model Optimization**: Testing and integrating LLaVA-7B, and LLaVA-MEd-7B models.
