@@ -2,10 +2,6 @@
 
 ## Project Overview
 This project focuses on the development of a sophisticated medical image analysis system. The primary objective is to upload brain images and generate accurate descriptions of these images on the front end.
-
-## Technologies Used
-- **Langchain**: For managing the workflow and integration of various components.
-- **Hugging Face**: Utilized for generating embeddings that aid in the analysis of medical images.
 ## Workflow
 - **Data Collection**: Gathering a diverse dataset of brain images to train and test the models.
 - **Preprocessing**: Implementing preprocessing steps to prepare the images for analysis.
