@@ -1,5 +1,8 @@
 # Medical-Image-Analysis-using-Multimodal-LLM
 
+![image](https://github.com/user-attachments/assets/91c3b4fb-db0f-4b9c-8837-5c9def8de9f3)
+
+
 ## Project Overview
 This project focuses on the development of a sophisticated medical image analysis system. The primary objective is to upload brain images and generate accurate descriptions of these images on the front end.
 ## Workflow
