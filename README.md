@@ -16,8 +16,7 @@ This project focuses on the development of a sophisticated medical image analysi
 - **Challenges Faced**: Encountered issues with training time, downloading models, and preprocessing images effectively. I faced resource problem with the available resource, had to use runpod for extra GPUs.
 - **Future Phases**: Planning on creaitng front-end using gradio.
 ## Future Plans
-- **Model Optimization**: Testing and integrating LLaVA-7B, and LLaVA-MEd-7B models.
-- **Performance Improvement**: Addressing current challenges to optimize the training process and improve the overall efficiency of the system.
-- **User Interface Enhancements**: Refining the front-end interface for a more user-friendly experience.
+- **User Interface Enhancements**: Will be integrating audio input as well. So, user's will have an option to either type text or through speech. And output will also be eiter text or audio user can choose.
+- **New Data**: Training on other body parts like "spinal cord" etc. 
 ## Conclusion
 This project aims to leverage cutting-edge AI and machine learning technologies to provide accurate and efficient medical image analysis. By continually improving the models and workflow, we strive to enhance diagnostic capabilities and support medical professionals in their work.
