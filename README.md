@@ -1,7 +1,7 @@
 # Medical-Image-Analysis-using-Multimodal-LLM
 
 ## Front -End using Gradio
-### LLaVA-Med                                                                                             LLaVA
+### LLaVA-Med                                                                                                                                               LLaVA
 ![image](https://github.com/user-attachments/assets/91c3b4fb-db0f-4b9c-8837-5c9def8de9f3)                ![image](https://github.com/user-attachments/assets/b72085b1-df6e-4853-90d6-501054c96a90)
 
 ## Project Overview
