@@ -16,7 +16,7 @@ This project focuses on the development of a sophisticated medical image analysi
 - **Challenges Faced**: Encountered issues with training time, downloading models, and preprocessing images effectively. I faced resource problem with the available resource, had to use runpod for extra GPUs.
 - **Future Phases**: Planning on creaitng front-end using gradio.
 ## Future Plans
-- **User Interface Enhancements**: Will be integrating audio input as well. So, user's will have an option to either type text or through speech. And output will also be eiter text or audio user can choose.
+- **User Interface Enhancements**: Will be integrating audio input as well. So, user's will have an option to either type text or through speech. And output will also be eiter text or audio.
 - **New Data**: Training on other body parts like "spinal cord" etc. 
 ## Conclusion
 This project aims to leverage cutting-edge AI and machine learning technologies to provide accurate and efficient medical image analysis. By continually improving the models and workflow, we strive to enhance diagnostic capabilities and support medical professionals in their work.
