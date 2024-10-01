@@ -4,12 +4,6 @@
 ### LLaVA-Med and                                                                                                                                                LLaVA
 ![image](https://github.com/user-attachments/assets/91c3b4fb-db0f-4b9c-8837-5c9def8de9f3)                ![image](https://github.com/user-attachments/assets/b72085b1-df6e-4853-90d6-501054c96a90)
 
-## Front-End Link:
-
-- **URL**: [Check out my healthcare project on Hugging Face Spaces!](https://huggingface.co/spaces/Varu96/healthcare_project)
-
-
-
 ## Project Overview
 This project focuses on the development of a sophisticated medical image analysis system. The primary objective is to upload brain images and generate accurate descriptions of these images on the front end.
 ## Workflow
