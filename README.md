@@ -6,7 +6,7 @@
 
 ## Front-End Link:
 
-- **URL**: [https://032e25bc9e85c32189.gradio.live](https://032e25bc9e85c32189.gradio.live)
+- **URL**: [https://huggingface.co/spaces/Varu96/healthcare_project]([https://032e25bc9e85c32189.gradio.live](https://huggingface.co/spaces/Varu96/healthcare_project))
 
 
 ## Project Overview
