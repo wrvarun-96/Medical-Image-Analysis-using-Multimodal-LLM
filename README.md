@@ -14,7 +14,7 @@ This project focuses on the development of a sophisticated medical image analysi
 ## Current Progress
 - **Model Used**: Initially used IDEFICS2, but results were not optimal.But, LLaVA and LLaVA-Med gave a optimal results.
 - **Challenges Faced**: Encountered issues with training time, downloading models, and preprocessing images effectively. I faced resource problem with the available resource, had to use runpod for extra GPUs.
-- **Underdevelopment**: I have been testing doe speech input and output. Will be live soon.
+- **Underdevelopment**: I have been testing on speech input and output. Will be live soon.
 ## Future Plans
 - **User Interface Enhancements**: Will be integrating audio input as well. So, user's will have an option to either type text or through speech. And output will also be eiter text or audio.
 - **New Data**: Training on other body parts like "spinal cord" etc. 
