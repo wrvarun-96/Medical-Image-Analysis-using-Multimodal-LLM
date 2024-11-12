@@ -1,0 +1,21 @@
+transformers==4.37.2
+flash-attn
+-e ".[train]"
+peft 
+bitsandbytes
+#restart the session once done with installiation of "sentencepiece" and "protobuf"
+sentencepiece
+protobuf
+torch==2.1.2 
+torchvision==0.16.2 
+triton==2.1.0 
+accelerate==0.26.1 
+deepspeed==0.13.1 
+pynvml==11.5.0 
+torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu117
+openai==0.27.8
+transformers -y
+transformers==4.40.0(##Idefics2)
+typing_extensions==4.5.0
+pydantic
+gradio
